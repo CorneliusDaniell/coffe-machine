@@ -1,0 +1,6 @@
+E:\programing files\visual studio\sortare vector\Petri\Petri\bin\Debug\Petri.exe.config
+E:\programing files\visual studio\sortare vector\Petri\Petri\obj\Debug\Petri.csprojResolveAssemblyReference.cache
+E:\programing files\visual studio\sortare vector\Petri\Petri\bin\Debug\Petri.exe
+E:\programing files\visual studio\sortare vector\Petri\Petri\bin\Debug\Petri.pdb
+E:\programing files\visual studio\sortare vector\Petri\Petri\obj\Debug\Petri.exe
+E:\programing files\visual studio\sortare vector\Petri\Petri\obj\Debug\Petri.pdb
